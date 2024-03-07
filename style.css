@@ -1,0 +1,14 @@
+/*div properties*/
+div{
+    padding: 10px;
+}
+.container{
+    background-color:#d8d8d8;
+    display: flex;
+}
+.side {
+    text-align: center;
+    flex-grow:1;
+    border:3px solid black;  
+    background-color:#ffffff;
+}
